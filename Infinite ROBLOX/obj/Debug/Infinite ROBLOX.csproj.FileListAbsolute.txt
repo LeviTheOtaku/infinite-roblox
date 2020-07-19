@@ -1,0 +1,7 @@
+D:\levij\source\repos\Infinite ROBLOX\Infinite ROBLOX\bin\Debug\Infinite ROBLOX.exe.config
+D:\levij\source\repos\Infinite ROBLOX\Infinite ROBLOX\bin\Debug\Infinite ROBLOX.exe
+D:\levij\source\repos\Infinite ROBLOX\Infinite ROBLOX\obj\Debug\Infinite ROBLOX.csprojAssemblyReference.cache
+D:\levij\source\repos\Infinite ROBLOX\Infinite ROBLOX\obj\Debug\Infinite_ROBLOX.Form1.resources
+D:\levij\source\repos\Infinite ROBLOX\Infinite ROBLOX\obj\Debug\Infinite_ROBLOX.Properties.Resources.resources
+D:\levij\source\repos\Infinite ROBLOX\Infinite ROBLOX\obj\Debug\Infinite ROBLOX.csproj.GenerateResource.cache
+D:\levij\source\repos\Infinite ROBLOX\Infinite ROBLOX\obj\Debug\Infinite ROBLOX.exe
